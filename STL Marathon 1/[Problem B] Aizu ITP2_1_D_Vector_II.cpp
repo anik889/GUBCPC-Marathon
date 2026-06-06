@@ -28,6 +28,5 @@ void solve(){
 }
 int main(){
     int t=1;
-    for(int i=0;i<t;i++)
-        solve();
+    for(int i=0;i<t;i++)        solve();
 }
